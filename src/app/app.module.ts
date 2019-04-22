@@ -7,8 +7,6 @@ import { APP_ROUTES } from './app.routes';
 // Modules
 import { PagesModule } from './pages/pages.module';
 
-// Servicios
-import { SettingsService } from './services/service.index';
 
 // Componentes
 import { AppComponent } from './app.component';
